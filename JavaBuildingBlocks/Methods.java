@@ -1,0 +1,7 @@
+/**
+ * Methods
+ */
+public class Methods {
+
+    
+}
